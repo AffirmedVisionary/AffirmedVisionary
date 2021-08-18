@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/affirmedvision" target="blank"><img src="https://img.shields.io/twitter/follow/affirmedvision?logo=twitter&style=for-the-badge" alt="affirmedvision" /></a> </p>
 
-- 🔭 I’m currently working on [an E-commerce react template](https://github.com/AffirmedVisionary/eCommReact)
+- 🔭 I’m currently working on Black Codher's new Website
 
-- 🌱 I’m currently learning **MERN stack, Typescript, Next.js**
+- 🌱 I’m currently learning **Typescript, Next.js, WordPress Themes**
 
 - 👯 I’m looking to collaborate on [Convert to React Native](https://github.com/AffirmedVisionary/blackcodher-react-mybookcase2)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **iam@charlenegrant.co.uk**
 
-- ⚡ Fun fact **My sun, moon and rising signs are all water**
+- ⚡ Fun fact **My sun, moon and rising signs are all water signs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
