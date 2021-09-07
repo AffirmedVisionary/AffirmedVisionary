@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/affirmedvision" target="blank"><img src="https://img.shields.io/twitter/follow/affirmedvision?logo=twitter&style=for-the-badge" alt="affirmedvision" /></a> </p>
 
-- 🔭 I’m currently working on Black Codher's new Website
+- 🔭 I’m currently working on Black Codher's new Website... Stage 1 is live, [check it out](https://blackcodher.com) and let me know any feedback/issues 
 
 - 🌱 I’m currently learning **Typescript, Next.js, WordPress Themes**
 
-- 👯 I’m looking to collaborate on [Convert to React Native](https://github.com/AffirmedVisionary/blackcodher-react-mybookcase2)
+- 👯 I’m looking to collaborate on [Creating a digital journal](https://github.com/AffirmedVisionary/road-to-freelance) as part of #100DaysOfCode
 
 - 🤝 I’m looking for help with [Wix to React conversion](https://github.com/AffirmedVisionary/operationRewritePortfolio)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AffirmedVisionary](https://github.com/AffirmedVisionary)
 
-- 📝 I regularly write articles on [https://www.charlenegrant.co.uk](https://www.charlenegrant.co.uk)
+- 📝 I regularly write articles on [https://affirmedvisionary.com](https://affirmedvisionary.com)
 
 - 💬 Ask me about **React, Node**
 
