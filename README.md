@@ -9,8 +9,8 @@ Full-stack developer · AI consultant · certified prompt engineer · teaching d
 <p>🌱 I'm currently learning Playwright Scripts, Agentic Coding, Chrome Extensions</p>
 <p>💬 Ask me about Full Stack Development, Agnostic Codebases, React, Vue Js, Next Js</p>
 <p>📫 How to reach me? github@epicai.agency</p>
-<p>I regularly write articles on <a href="https://github.com/AffirmedVisionary?tab=repositories">AffirmedVisionary</a></p>
-<p>All of my projects are available at <a href="https://epicaiagency.substack.com/">Substack</a></p>
+<p>I regularly write articles on <a href="https://epicaiagency.substack.com/">Substack</a></p>
+<p>All of my projects are available at <a href="https://github.com/AffirmedVisionary?tab=repositories">AffirmedVisionary</a></p>
 <p>⚡ Fun Fact: I have 0 large intestine</p>
 
 ## 💻 Skills
@@ -32,10 +32,10 @@ Full-stack developer · AI consultant · certified prompt engineer · teaching d
 <p>
 <a href="https://linkedin.com/in/charlenegrantwalsall"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://twitter.com/epicaiagency"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://twitter.com/epicaiagency"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://stackoverflow.com/users/32759884/epicaiagency"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.facebook.com/epicaiagency"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.instagram.com/epicaiagency"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.youtube.com/c/@epicaiagency"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.youtube.com/@epicaiagency"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.reddit.com/user/epicaiagency"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
@@ -51,14 +51,6 @@ Full-stack developer · AI consultant · certified prompt engineer · teaching d
 
 ## 📊 Github Status
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=AffirmedVisionary"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=AffirmedVisionary&show_icons=true"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffirmedVisionary&layout=compact"><p>
-
 <p><img src="https://metrics.lecoq.io/AffirmedVisionary"><p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=AffirmedVisionary"><p>
-
-<p><img src="https://visitcount.itsvg.in/api?id=AffirmedVisionary&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
