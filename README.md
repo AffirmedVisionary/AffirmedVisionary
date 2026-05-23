@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Charlene
 
-<img width="100%" src="https://github-profile-page-creator.netlify.app/" alt="my banner">
+<img width="100%" src="https://res.cloudinary.com/affirmedvisionary/image/upload/v1779552836/EPIC%20AI%20Agency/16x3_banner_buahsl.png" alt="my banner">
 
 Full-stack developer · AI consultant · certified prompt engineer · teaching degree with ICT specialism. I build with React, Vue, and whatever the problem actually needs. Currently building EPIC AI Agency; a neurodivergent-first creative business that stacks AI tools into systems that work around variable energy, not against it. I read documentation front to back. I implement onboarding processes when there aren't any. AuDHD. Still in progress.
 
